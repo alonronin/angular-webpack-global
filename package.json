@@ -1,0 +1,20 @@
+{
+  "name": "angular-webpack-global",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack -d --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "exports-loader": "^0.6.3",
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "angular": "^1.5.5",
+    "lodash": "^4.13.1"
+  }
+}
