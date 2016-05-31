@@ -102,7 +102,7 @@
 /***/ function(module, exports, __webpack_require__) {
 
 	__webpack_require__(/*! lodash */ 1);
-	__webpack_require__(/*! angular */ 11);
+	__webpack_require__(/*! angular */ 14);
 
 /***/ },
 /* 1 */
@@ -16546,18 +16546,21 @@
 /* 8 */,
 /* 9 */,
 /* 10 */,
-/* 11 */
+/* 11 */,
+/* 12 */,
+/* 13 */,
+/* 14 */
 /*!****************************!*\
   !*** ./~/angular/index.js ***!
   \****************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	__webpack_require__(/*! ./angular */ 12);
+	__webpack_require__(/*! ./angular */ 15);
 	module.exports = angular;
 
 
 /***/ },
-/* 12 */
+/* 15 */
 /*!******************************!*\
   !*** ./~/angular/angular.js ***!
   \******************************/

@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "exports-loader": "^0.6.3",
+    "raw-loader": "^0.5.1",
     "webpack": "^1.13.1"
   },
   "dependencies": {

@@ -14,7 +14,8 @@ module.exports = {
 
     module: {
         loaders: [
-            { test: /angular\.js$/, loader: "exports?angular" }
+            { test: /angular\.js$/, loader: "exports?angular" },
+            { test: /\.html$/, loader: 'raw' }
         ]
     },
 
